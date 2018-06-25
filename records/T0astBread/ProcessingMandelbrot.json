@@ -1,0 +1,9 @@
+{
+    "id": {
+        "owner": "T0astBread",
+        "name": "ProcessingMandelbrot"
+    },
+    "type": "code",
+    "subtype": "mandelbrot-renderer",
+    "status": "finished"
+}

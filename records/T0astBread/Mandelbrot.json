@@ -1,0 +1,9 @@
+{
+    "id": {
+        "owner": "T0astBread",
+        "name": "Mandelbrot"
+    },
+    "type": "code",
+    "subtype": "mandelbrot-renderer",
+    "status": "unpolished"
+}

@@ -1,0 +1,9 @@
+{
+    "id": {
+        "owner": "T0astBread",
+        "name": "blog"
+    },
+    "type": "datastore",
+    "subtype": "blog",
+    "status": "?"
+}

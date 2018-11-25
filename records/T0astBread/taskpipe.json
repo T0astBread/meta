@@ -1,0 +1,9 @@
+{
+    "id": {
+        "owner": "T0astBread",
+        "name": "taskpipe"
+    },
+    "type": "code",
+    "subtype": "tool",
+    "status": "development"
+}

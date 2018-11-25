@@ -4,5 +4,6 @@
         "name": "RuntimeTestViewer"
     },
     "type": "code",
+    "subtype": "tool",
     "status": "finished"
 }
